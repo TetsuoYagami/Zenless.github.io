@@ -1,0 +1,25 @@
+main{
+    width: 1366px; /* comentarios en CSS*/
+    height: 768px;
+    background-color: coral;
+}
+header{
+    width: 1366px;
+    height: 200px;
+    background-color: crimson;
+}
+nav{
+    width: 1366px;
+    height: 50px;
+    background-color: aquamarine;
+}
+section{
+    width: 1366px;
+    height: 400px;
+    background-color: darkmagenta;
+}
+footer{
+    width: 1366px;
+    height: 118px;
+    background-color: lawngreen;
+}
